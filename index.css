@@ -127,8 +127,6 @@ a {
     color: #02a9f4;
 }
 
-/* sections */
-
 section {
     font-family: "Poppins";
     text-align: center;
@@ -145,7 +143,6 @@ section h3 {
     font-size: 2rem;
 }
 
-/*contributed b aryan */
 .zoom-effect1 {
     -webkit-transition: 0.4s ease;
     transition: 0.4s ease;
@@ -197,13 +194,9 @@ section h3 {
     border-bottom: 2px solid #fff;
 }
 
-.content-table table,
-th,
-td {
+.content-table table, th, td {
     border: 3px solid white;
 }
-
-/* CSS for scroll to top button */
 
 #btnScrollToTop {
     position: fixed;
